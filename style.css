@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+background: #e34343;
+} */
+header{
+    background: white;
+    height: 50px;
+    border-bottom: 1px solid blue;
+}    
+.header-block{
+    background: rgb(68, 111, 210);
+    height: 100px;
+    width: 100%;
+    color: rgb(250, 249, 249);ß
+    text-align: start ;
+    font-size: 20px;
+}
+.header-block h1{
+    color: #fff;
+    padding-top: 10px;
+
+    
+
+}
+.header-block h2,h3{text-align: end;}
+.green {text-align: end ;}
+.split{height: 100%;
+width: 50;
+positon: fixed;
+z-index: 1;
+top:0;
+overflow: hidden;
+padding-top: 20px;
+}
+.left{
+    left:0;
+    background-color:#fff
+}
+.right{
+    right:0;
+    background-color: #fff;
+    text-align: end;}
+.middle{
+    text-align: end;
+}
+.birth{
+    text-align: end;
+    font-size: larger;
+    
+}
+.don{
+    text-align: end;
+
+}
+.mon {
+    text-align: end;
+}
+.tue{
+    text-align: end;
+}
