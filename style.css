@@ -62,3 +62,17 @@ padding-top: 20px;
 .tue{
     text-align: end;
 }
+.center{
+    float: left;
+    image: size 40px;
+    
+}
+.splitleft{
+    display: flex;
+    
+    
+}
+.way{
+    text-align: end;
+    padding-left: 20%;
+}
